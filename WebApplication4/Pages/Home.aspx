@@ -5,4 +5,8 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MyPlaceHolder" runat="server">
     <p>My Page</p>
+    <br />
+    <br />
+    <asp:Button ID="Nav" runat="server" Text="To next page" OnClick="Nav_Click" />
+
 </asp:Content>

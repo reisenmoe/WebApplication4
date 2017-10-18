@@ -13,5 +13,10 @@ namespace WebApplication4.Pages
         {
 
         }
+
+        protected void Nav_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("OtherPage.aspx");
+        }
     }
 }
