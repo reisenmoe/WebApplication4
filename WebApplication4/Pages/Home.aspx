@@ -8,5 +8,5 @@
     <br />
     <br />
     <asp:Button ID="Nav" runat="server" Text="To next page" OnClick="Nav_Click" />
-
+    <asp:Button ID="Nav2" runat="server" Text="To next page 2" OnClick="Nav2_Click" />
 </asp:Content>

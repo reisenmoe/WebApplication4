@@ -10,24 +10,24 @@
 namespace WebApplication4.Pages {
     
     
-    public partial class Home {
+    public partial class OtherPageManual {
         
         /// <summary>
-        /// Nav control.
+        /// MyLabel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Nav;
+        protected global::System.Web.UI.WebControls.Label MyLabel;
         
         /// <summary>
-        /// Nav2 control.
+        /// LoadButton control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Nav2;
+        protected global::System.Web.UI.WebControls.Button LoadButton;
     }
 }
